@@ -1,8 +1,11 @@
 # Projeto 2 — Classificação de Notícias por Compressão
 
 **Disciplina:** Introdução à Teoria da Informação (ITI 2025.2)
+
 **Instituição:** UFPB / CI
+
 **Professor:** Leonardo Vidal Batista
+
 **Alunos:** Gustavo da Rocha, Kelvin Soares Oliveira, Rivando Bezerra Cavalcanti Neto
 
 ---
